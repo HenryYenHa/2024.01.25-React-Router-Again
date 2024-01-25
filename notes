@@ -1,0 +1,3 @@
+Auth context providers also need to live inside the area that Auth context is covering
+
+This is broken on trying to hide the login button and stuff when logged in; fix it in app.jsx
